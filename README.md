@@ -16,11 +16,14 @@ Este projeto consiste em um caixa eletrônico onde os usuários podem verificar 
 - Transferir dinheiro para outra conta
 - Sair do sistema
 
-## 🚀 Como Executar
-
+## 🚀 Como Executar 
+### Opção 1: Clone
 1. Faça o download ou clone este repositório.
 2. Abra o arquivo `index.html` em seu navegador web.
 3. Comece a usar o caixa eletrônico digitando seu nome e selecionando as opções desejadas!
+
+### Opção 2: Link
+Clicando [aqui](https://caixa-eletronico-ten.vercel.app/) você é redirecionado para a página web do projeto!
 
 ## 🔑 Senha de Acesso
 
